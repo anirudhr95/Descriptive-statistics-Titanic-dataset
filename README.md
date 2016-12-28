@@ -8,3 +8,6 @@ Analysis (Cleaning , exploration and conclusion) of Titanic data.
 - Numpy
 - Seaborn Plotting library
 - Matplotlib plotting library.
+
+
+*Output : code_and_documentation.html*
